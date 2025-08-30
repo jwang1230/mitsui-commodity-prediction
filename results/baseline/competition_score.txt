@@ -1,0 +1,2 @@
+Competition Score: -0.2180
+Interpretation: VERY POOR (negative or zero correlation)
