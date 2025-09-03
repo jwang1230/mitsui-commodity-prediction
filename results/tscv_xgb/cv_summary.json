@@ -5,21 +5,21 @@
   "min_train_size": 800,
   "step": 90,
   "feature_mode": "log_returns",
-  "target_count": 20,
+  "target_count": 424,
   "fold_scores": [
     {
       "fold": 1,
-      "score": 0.059795148232004
+      "score": -0.11074577080863258
     },
     {
       "fold": 2,
-      "score": 0.0009606691778513899
+      "score": 0.09897064173836885
     },
     {
       "fold": 3,
-      "score": 0.013218110094895099
+      "score": 0.22312866804245537
     }
   ],
-  "mean_score": 0.02465797583491683,
-  "std_score": 0.025344649369648982
+  "mean_score": 0.07045117965739721,
+  "std_score": 0.13778740875608145
 }
